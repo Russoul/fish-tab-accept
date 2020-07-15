@@ -4,7 +4,6 @@ function tab-comp
 	else
 		commandline -f complete
 	end
-        return	
 end
 
 bind \t tab-comp
